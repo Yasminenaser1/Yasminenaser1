@@ -1,46 +1,30 @@
-# 👋 Hi, I’m Yasmine Naser
+👋 Hi, I'm Yasmine Naser
 
-I’m an aspiring Machine Learning Engineer with a strong foundation in Python, data analysis, and web development. I’m passionate about building intelligent systems that make a real-world impact.
----
+Automation Engineer Intern at OptiU. I build AI-powered automation 
+systems that run real business functions.
 
-## 🚀 What I Bring
+🚀 What I Build
+- Multi-agent AI pipelines using Claude Code, Groq, and Anthropic APIs
+- Production automation systems deployed on real infrastructure
+- Full-stack web consoles with Flask, SQLite, and Jinja2
+- Email automation and outreach systems
 
-- 🔎 **Curious & Analytical** – I love exploring data and uncovering insights.
-- 🛠️ **Hands-On Builder** – I learn best by doing and enjoy building real, usable projects.
-- 💡 **Problem Solver** – I approach challenges with creativity, persistence, and logic.
+🔧 Tech Stack
+- Languages: Python, SQL, JavaScript
+- AI/ML: Claude Code, Groq API, Anthropic API, TensorFlow, PyTorch
+- Web: Flask, Jinja2, HTML/CSS
+- Data: SQLite, pandas, NumPy
+- Tools: GitHub, Render, Brevo
 
----
+🏗️ Current Project
+Building OptiReach — an autonomous AI SDR system that takes a product 
+description and self-directs the entire lead generation process: 
+ICP analysis → account discovery → contact identification → deep 
+research → personalized outreach.
 
-## 🧠 Currently Learning
+Live at: optireach.onrender.com
 
-- Machine Learning algorithms (scikit-learn, pandas, NumPy)
-- Model evaluation and deployment
-- Data preprocessing and visualization
-- Building full-stack apps with HTML, CSS, JS, and Python
-
----
-
-## 🤝 Open to Collaborate On
-
-- Open-source ML or data projects
-- Web tools or apps that solve meaningful problems
-- Anything that pushes me to grow and make an impact
-
----
-
-## 📫 Let’s Connect
-
-- Email: [yasminenaser38@gmail.com]
-- LinkedIn: [www.linkedin.com/in/yasmine-naser]
-- GitHub: [github.com/Yasminenaser1](https://github.com/Yasminenaser1)
-
----
-
-## ⚡ Fun Fact
-
-I’m fueled by lemon balm tea, late-night coding, and a relentless drive to keep learning.
-
-<!---
-Yasminenaser1/Yasminenaser1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Let's Connect
+- Email: yasminenaser38@gmail.com
+- LinkedIn: linkedin.com/in/yasmine-naser
+- GitHub: github.com/Yasminenaser1
