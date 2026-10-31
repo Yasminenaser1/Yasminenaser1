@@ -1,30 +1,28 @@
-👋 Hi, I'm Yasmine Naser
+# 👋 Hi, I'm Yasmine Naser
 
-Automation Engineer Intern at OptiU. I build AI-powered automation 
-systems that run real business functions.
+AI Engineering Intern at **OptiU**. I test, debug and fix AI-powered business software before real customers use it.
 
-🚀 What I Build
-- Multi-agent AI pipelines using Claude Code, Groq, and Anthropic APIs
-- Production automation systems deployed on real infrastructure
-- Full-stack web consoles with Flask, SQLite, and Jinja2
-- Email automation and outreach systems
+## 🚀 What I Do
 
-🔧 Tech Stack
-- Languages: Python, SQL, JavaScript
-- AI/ML: Claude Code, Groq API, Anthropic API, TensorFlow, PyTorch
-- Web: Flask, Jinja2, HTML/CSS
-- Data: SQLite, pandas, NumPy
-- Tools: GitHub, Render, Brevo
+- **QA lead** on an enterprise financial planning app (budgets, vendors, headcount) for a mortgage lender
+- End-to-end testing in the browser, plus one shared findings tracker for the whole team
+- Find the root cause of bugs in the code and ship fixes through pull requests (Python + React)
+- Test AI assistant answers for accuracy and log where they go wrong
+- Earlier: model evaluation, Docker deploys, reading production logs
 
-🏗️ Current Project
-Building OptiReach — an autonomous AI SDR system that takes a product 
-description and self-directs the entire lead generation process: 
-ICP analysis → account discovery → contact identification → deep 
-research → personalized outreach.
+## 🔧 Tech Stack
 
-Live at: optireach.onrender.com
+**Languages:** Python, SQL, TypeScript, JavaScript
+**AI:** Claude Code, Anthropic API, Groq API, LLM evaluation
+**Backend:** FastAPI, Flask, DuckDB, SQLite
+**Frontend:** React, Vite, HTML/CSS
+**Tools:** Git & GitHub (branch + PR workflow), Docker, uv, npm, Render
 
-📫 Let's Connect
+## 🏗️ Projects
+
+**OptiReach**: an AI sales assistant that takes a product description and runs lead generation end to end: ideal customer → accounts → contacts → research → personal outreach.
+
+## 📫 Let's Connect
+
 - Email: yasminenaser38@gmail.com
-- LinkedIn: linkedin.com/in/yasmine-naser
-- GitHub: github.com/Yasminenaser1
+- LinkedIn: [linkedin.com/in/yasmine-naser](https://linkedin.com/in/yasmine-naser)
