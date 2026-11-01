@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yasmine Naser
+# Hi, I'm Yasmine Naser
 
 AI Engineering Intern at **OptiU**. I test, debug and fix AI-powered business software before real customers use it.
 
